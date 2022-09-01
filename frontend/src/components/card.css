@@ -1,0 +1,12 @@
+.cardtitle {
+    padding: 16px;
+    text-align: center;
+  }
+  
+  .tab1cards {
+    display: inline-flex;
+  }
+
+  .App {
+    text-align: center;
+  }
